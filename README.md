@@ -9,7 +9,7 @@ Tech Stack: Python, LangChain, LLaMA-3 (via GROQ), Streamlit, ChromaDB, Pandas, 
 6. Optimized text preprocessing using regular expressions and vector search to maintain high response accuracy and low latency.
 7. Automated cold-email generation process for any job URL, reducing manual effort and improving application turnaround by over 80%.
 
-use this command to run the app: streamlit run main.py
+use this command to run the app: streamlit run ./app/main.py
 
 Modify the prrompts according to your need in chain.py file
 Include your skills in my_protfolio.csv file 
